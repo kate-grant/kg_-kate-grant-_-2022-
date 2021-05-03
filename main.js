@@ -40,3 +40,6 @@ myNumArray.forEach(element => {
     //console.log(ansArray);
     
 });
+
+//console.log(ansArray);
+console.log(ansArray.join());
